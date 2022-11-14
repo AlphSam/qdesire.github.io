@@ -1,0 +1,50 @@
+* HOME
+home__social
+https://www.linkedin.com/
+https://dribbble.com/
+https://github.com/
+
+home__description
+High level in computer science and project management, creative work.
+
+
+* ABOUT
+about__description
+Application developer, with master's degree in computer science, working in application and web technologies, delivering quality work.
+
+about__info-name
+Years <br> experience
+Completed <br> project
+Companies <br> worked
+
+
+* SERVICES
+services__modal-service
+Create work environment.
+Manage teamwork.
+Develop concerned part.
+Help as much as possible others.
+
+
+* PORTFOLIO
+portfolio__description
+Website adaptable to all devices, with ui components and animated interactions.
+
+
+* PROJECT
+project__description
+Trying to do a portfolio on this website.
+
+
+* TESTIMONIAL
+testimonial__description
+Soon per'haps.
+
+
+* FOOTER
+footer__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+
