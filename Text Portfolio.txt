@@ -1,11 +1,10 @@
 * HOME
 home__social
 https://www.linkedin.com/
-https://dribbble.com/
 https://github.com/
 
 home__description
-High level in computer science and project management, creative work.
+Experienced in application development, project management and computer science.
 
 
 * ABOUT
