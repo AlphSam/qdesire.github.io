@@ -28,22 +28,3 @@ Help as much as possible others.
 * PORTFOLIO
 portfolio__description
 Website adaptable to all devices, with ui components and animated interactions.
-
-
-* PROJECT
-project__description
-Trying to do a portfolio on this website.
-
-
-* TESTIMONIAL
-testimonial__description
-Soon per'haps.
-
-
-* FOOTER
-footer__social
-https://www.facebook.com/
-https://www.instagram.com/
-https://twitter.com/
-
-
